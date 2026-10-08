@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "updated_at": "2026-10-08T19:05:27.715Z",
+  "total_anime": 1,
+  "total_episodes": 2,
+  "total_servers": 3,
+  "episodes": {
+    "#compass2.0-animation-project": [
+      {
+        "ep": 1,
+        "title": "episode 1",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "360",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwYFMIjt6j_OM6MjG4_ZPDB08oZV6-a9Zx1w7hbz8rwtky6TK50ZQLPH6eQ8X6DkeOIeXB2ueGPa6ugV_x9zJawspyiI7DClCoJfCIlaeFMKcq12hm8jTYKJJPGRMhS8XRTXL0"
+          },
+          {
+            "name": "Mega",
+            "quality": "720",
+            "url": "https://mega.nz/embed/FIJXFDwZ#szwig6otUimynEHUW8xeAniu8EsHjhYGb2RaNa-Nl0w"
+          }
+        ]
+      },
+      {
+        "ep": 2,
+        "title": "episode 2",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "HD",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dy1VUe7m0iB7Ju-M_XhDSHV51CnqJupVL656XU6x9ZOsMcelVjeESvD-uuvunLIfWqzBsPTxVnUc9KGjdYZHgqhpKZXh74oRYP_6TkrgZD-QEy208MLM-0TRXuEdLgJiUlcMiw1"
+          }
+        ]
+      }
+    ]
+  }
+}
