@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-10-08T18:53:56.972Z",
-  "total": 1,
+  "updated_at": "2026-10-15T12:55:43.554Z",
+  "total": 4,
   "anime_list": [
     {
       "id": "#compass2.0-animation-project",
@@ -10,6 +10,38 @@
       "synopsis": "Ini adalah dunia sistem analisis pertempuran “Compass 2.0”. Ini adalah ruang seperti mimpi tempat para pahlawan yang berkumpul dari berbagai dunia menghabiskan waktu bersama dengan rekan manusia mereka, para pemain. Energi yang dihasilkan oleh pertempuran para pahlawan sangat penting untuk pengoperasian #Compass, dan bertempur adalah tanggung jawab mereka. Namun, seorang pahlawan bermasalah bernama 13 menolak untuk menemukan rekan atau pertempuran, dan hampir diusir dari dunia #Compass 2.0!\n\nSementara itu, Jin, seorang pemain pemula yang baru saja tiba di dunia #Compass 2.0, tampaknya tertarik pada 13 sebagai calon rekan. Namun, sebuah insiden besar mulai terjadi di dunia #Compass 2.0… Mungkinkah kunci untuk menyelesaikan masalah tersebut adalah kemampuan spesial 13?\n\nBisakah pahlawan kita yang bermasalah dan rekan barunya membawa perdamaian kembali ke dunia #Compass2.0?",
       "genres": [
         "action"
+      ]
+    },
+    {
+      "id": "#zombie-sagashitemasu",
+      "title": "#Zombie Sagashitemasu",
+      "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Zombie-Sagashitemasu.jpg",
+      "synopsis": "Berlatar di dunia yang 90% umat manusianya terjangkit dan mati karena penyakit yang sangat ganas—lalu bangkit kmbali sebagai zombie. Tiga belas tahun telah berlalu sejak “Hari Merah,” hari runtuhnya tatanan masyarakat terjadi. Manusia yang masih hidup sekarang tinggal jauh dari kota beesar, dan masih bereharap untuk bisa kembali suatu saat nanti. Generas baru yang sepenuhnya tidak mengenal dunia sebelum peristiwa “Hari Merah” pun mulai tumbuh dan berkembang.\n\nCerita ini bermula ketika Aki, yang tidak memiliki kenangan dunia seblum kehancurannya—melarikan diri dari desa bersama teman-teman dekatnya, Haru dan Natsuki, demi mencari sang ayah yang hilang. Ketika mereka melangkah ke dunia luar, mereka mendapati diri mereka dikepung oleh zombie! Di tengah perjalanan, mereka menyelamatkan Yu dan Sakura, lalu berlindung di sebuah depo rumah. Mereka menyusun rencana, dan serangan balik pun dimulai—!!\n\n \n\n[#I’m Looking For a Zombie]",
+      "genres": [
+        "adventure"
+      ]
+    },
+    {
+      "id": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season",
+      "title": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+      "poster": "https://v2.samehadaku.how/wp-content/uploads/2021/07/115662l-scaled.jpg",
+      "synopsis": "Season kedua dari 100-man no Inochi no Ue ni Ore wa Tatteiru",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Game",
+        "Shounen"
+      ]
+    },
+    {
+      "id": "2.43:-seiin-koukou-danshi-volley-bu",
+      "title": "2.43: Seiin Koukou Danshi Volley-bu",
+      "poster": "https://v2.samehadaku.how/wp-content/uploads/2021/01/108096.jpg",
+      "synopsis": "Seorang siswa SMA bernama Kimichika Haijima kembali ke kampung halamannya di Fukui setelah menimbulkan masalah di klub bola voli sekolah menengah pertama tempatnya bersekolah di Tokyo. Di sana, ia bertemu kembali dengan teman masa kecilnya, Yuni Kuroba, yang memiliki kemampuan fisik luar biasa namun rentan saat berada di bawah tekanan. Berbekal hasrat dan bakat yang besar dalam bola voli, Haijima membentuk kombinasi andalan bersama Kuroba. Keduanya kemudian mendaftar di SMA Seiin dan bergabung dengan klub bola voli di sana. Mereka disambut oleh kapten yang penuh semangat, Shinichirou Oda (dengan tinggi badan 163 cm), wakil kapten yang berbakat namun bermulut tajam, Misao Aoki, serta rekan-rekan lainnya—termasuk siswa tahun kedua, Akito Kanno, yang selalu mengenakan pakaian berlengan panjang karena alergi terhadap sinar matahari. Tim yang baru terbentuk ini berhasil menanggalkan kelemahan masa lalunya dan menjelma menjadi bintang baru di Fukui. Inilah kisah perjalanan sebuah tim menuju kemenangan, di mana mereka harus menghadapi serangkaian rival yang tangguh dan memikat.",
+      "genres": [
+        "Drama",
+        "slice of life",
+        "school"
       ]
     }
   ]
