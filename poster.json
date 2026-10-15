@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T12:55:43.554Z",
-  "total": 4,
+  "updated_at": "2026-10-15T18:20:16.521Z",
+  "total": 10,
   "anime_list": [
     {
-      "id": "#compass2.0-animation-project",
-      "title": "Compass2.0 Animation Project",
+      "id": "compass20-animation-project",
+      "title": "#Compass2.0 Animation Project",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158287-4RDt0M820Ays.jpg",
       "synopsis": "Ini adalah dunia sistem analisis pertempuran “Compass 2.0”. Ini adalah ruang seperti mimpi tempat para pahlawan yang berkumpul dari berbagai dunia menghabiskan waktu bersama dengan rekan manusia mereka, para pemain. Energi yang dihasilkan oleh pertempuran para pahlawan sangat penting untuk pengoperasian #Compass, dan bertempur adalah tanggung jawab mereka. Namun, seorang pahlawan bermasalah bernama 13 menolak untuk menemukan rekan atau pertempuran, dan hampir diusir dari dunia #Compass 2.0!\n\nSementara itu, Jin, seorang pemain pemula yang baru saja tiba di dunia #Compass 2.0, tampaknya tertarik pada 13 sebagai calon rekan. Namun, sebuah insiden besar mulai terjadi di dunia #Compass 2.0… Mungkinkah kunci untuk menyelesaikan masalah tersebut adalah kemampuan spesial 13?\n\nBisakah pahlawan kita yang bermasalah dan rekan barunya membawa perdamaian kembali ke dunia #Compass2.0?",
       "genres": [
@@ -13,7 +13,7 @@
       ]
     },
     {
-      "id": "#zombie-sagashitemasu",
+      "id": "zombie-sagashitemasu",
       "title": "#Zombie Sagashitemasu",
       "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Zombie-Sagashitemasu.jpg",
       "synopsis": "Berlatar di dunia yang 90% umat manusianya terjangkit dan mati karena penyakit yang sangat ganas—lalu bangkit kmbali sebagai zombie. Tiga belas tahun telah berlalu sejak “Hari Merah,” hari runtuhnya tatanan masyarakat terjadi. Manusia yang masih hidup sekarang tinggal jauh dari kota beesar, dan masih bereharap untuk bisa kembali suatu saat nanti. Generas baru yang sepenuhnya tidak mengenal dunia sebelum peristiwa “Hari Merah” pun mulai tumbuh dan berkembang.\n\nCerita ini bermula ketika Aki, yang tidak memiliki kenangan dunia seblum kehancurannya—melarikan diri dari desa bersama teman-teman dekatnya, Haru dan Natsuki, demi mencari sang ayah yang hilang. Ketika mereka melangkah ke dunia luar, mereka mendapati diri mereka dikepung oleh zombie! Di tengah perjalanan, mereka menyelamatkan Yu dan Sakura, lalu berlindung di sebuah depo rumah. Mereka menyusun rencana, dan serangan balik pun dimulai—!!\n\n \n\n[#I’m Looking For a Zombie]",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "id": "2.43:-seiin-koukou-danshi-volley-bu",
+      "id": "243-seiin-koukou-danshi-volley-bu",
       "title": "2.43: Seiin Koukou Danshi Volley-bu",
       "poster": "https://v2.samehadaku.how/wp-content/uploads/2021/01/108096.jpg",
       "synopsis": "Seorang siswa SMA bernama Kimichika Haijima kembali ke kampung halamannya di Fukui setelah menimbulkan masalah di klub bola voli sekolah menengah pertama tempatnya bersekolah di Tokyo. Di sana, ia bertemu kembali dengan teman masa kecilnya, Yuni Kuroba, yang memiliki kemampuan fisik luar biasa namun rentan saat berada di bawah tekanan. Berbekal hasrat dan bakat yang besar dalam bola voli, Haijima membentuk kombinasi andalan bersama Kuroba. Keduanya kemudian mendaftar di SMA Seiin dan bergabung dengan klub bola voli di sana. Mereka disambut oleh kapten yang penuh semangat, Shinichirou Oda (dengan tinggi badan 163 cm), wakil kapten yang berbakat namun bermulut tajam, Misao Aoki, serta rekan-rekan lainnya—termasuk siswa tahun kedua, Akito Kanno, yang selalu mengenakan pakaian berlengan panjang karena alergi terhadap sinar matahari. Tim yang baru terbentuk ini berhasil menanggalkan kelemahan masa lalunya dan menjelma menjadi bintang baru di Fukui. Inilah kisah perjalanan sebuah tim menuju kemenangan, di mana mereka harus menghadapi serangkaian rival yang tangguh dan memikat.",
@@ -42,6 +42,75 @@
         "Drama",
         "slice of life",
         "school"
+      ]
+    },
+    {
+      "id": "25-jigen-no-ririsa",
+      "title": "2.5 jigen no Ririsa",
+      "poster": "https://v2.samehadaku.how/wp-content/uploads/2024/07/2.5-jigen-no-Ririsa.jpg",
+      "synopsis": "“Aku tidak tertarik pada gadis nyata!” Begitulah kata Okumura, ketua klub manga sekolah. Dia adalah otaku pada umumnya, terobsesi dengan karakter manga 2D yang seksi (fiktif) bernama Lilliel. Tahun ajaran baru dimulai, dan seorang gadis 3D (nyata!) bernama Ririsa yang meyukai cosplay bergabung dengan klub tersebut. Ririsa meyakinkan Okumura untuk menjadi fotografernya—dan tebak siapa karakter manga favoritnya? Tidak hanya itu, tapi Ririsa juga suka bermodel hal-hal yang fetish! Batas antara 2D dan 3D mulai tipis saat romansa komedi yang penuh gairah ini berlangsung.",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Harem",
+        "School"
+      ]
+    },
+    {
+      "id": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
+      "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+      "poster": "https://otakudesu.blog/wp-content/uploads/2020/10/100-man-no-Inochi-no-Ue-ni-Ore-wa-Tatteiru-Sub-Indo.jpg",
+      "synopsis": "Yuusuke Yotsuya, siswa kelas tiga SMP yang pendiam dan logis, dipindahkan ke dunia alternatif seperti permainan. Ia menjadi pemain ketiga dan memulai petualangan berbahaya bersama teman-teman sekelasnya, Iu Shindo dan Kusue Hakozaki, yang telah dipindahkan ke sana lebih dulu. Yuusuke yang dingin menghindari emosi dan mengamati semua elemen dengan objektif, bahkan terkadang mempermainkan nyawa teman-temannya. Mampukah ia melindungi kelompoknya dari monster yang menyerang, insiden sulit, dan musuh yang kuat dan licik, serta memenangkan permainan?",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Game",
+        "Shounen"
+      ]
+    },
+    {
+      "id": "11eyes",
+      "title": "11eyes",
+      "poster": "https://otakudesu.blog/wp-content/uploads/2018/03/11eyes-Sub-Indo.jpg",
+      "synopsis": "Saat langit berubah merah, bulan menjadi hitam, dan monster berkeliaran di jalanan, Satsuki Kakeru mendapati dirinya terlibat dalam situasi berbahaya dan ter transported ke dunia yang berbeda. Ketika ia bertemu empat orang lain dalam keadaan yang sama, mereka bersatu untuk bertahan hidup dan menjelajahi dunia baru yang misterius ini. Namun keadaan berubah menjadi lebih buruk ketika enam bayangan muncul dengan niat membunuh Kakeru dan teman-temannya.",
+      "genres": [
+        "adventure",
+        "Super Power",
+        "Supernatural"
+      ]
+    },
+    {
+      "id": "12-sai-chiccha-na-mune-no-tokimeki",
+      "title": "12-sai.: Chiccha na Mune no Tokimeki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21609-syaj6oFS52xC.jpg",
+      "synopsis": "Kisah ini dimulai dengan Hanabi, seorang siswi kelas enam yang belum dewasa maupun masih anak-anak. Ia menghadapi berbagai masalah, seperti secara tidak sengaja menyaksikan guru wali kelasnya berciuman, dan khawatir mengalami perubahan fisiologis sebelum teman-temannya. Ini adalah penggambaran kekhawatiran polos dan cinta pertama seorang gadis berusia 12 tahun.",
+      "genres": [
+        "School",
+        "Romance",
+        "Shoujo"
+      ]
+    },
+    {
+      "id": "16bit-sensation-another-layer",
+      "title": "16bit Sensation: ANOTHER LAYER",
+      "title_jp": "16bitセンセーション ANOTHER LAYER",
+      "poster": "https://otakudesu.blog/wp-content/uploads/2024/03/16bit-Sensation-Another-Layer-Sub-Indo.jpg",
+      "synopsis": "Konoha Akisato adalah seorang ilustrator yang sangat menyukai gadis-gadis cantik dan gim *bishojo* (gim yang menampilkan karakter gadis cantik). Ia bermimpi untuk menjadi ilustrator yang sangat populer, sehingga ia bekerja keras di sebuah perusahaan pengembang gim *bishojo*. Namun, kenyataan tidaklah seindah harapannya... Di tengah maraknya era keemasan gim jejaring sosial, perusahaan tempat Konoha bekerja justru mengalami kesulitan. Ia pun hanya berperan sebagai ilustrator pendukung, menghabiskan hari-harinya dengan menggambar bagian punggung karakter-karakter latar yang tidak penting. Suatu hari, pemilik sebuah toko gim memberinya sebuah gim *bishojo* klasik. Dengan penuh antusiasme—mengingat kecintaannya pada masa kejayaan gim *bishojo*—ia membuka kemasan gim berjudul \"Dokyusei\" tersebut, dan tiba-tiba, cahaya terang menyelimutinya. Konoha pun menyadari bahwa ia telah melakukan perjalanan waktu ke masa lalu! Ia tiba di tahun 1992! Masa itu merupakan awal mula era gim *bishojo*! Konoha akhirnya bekerja di sebuah perusahaan bernama Alcohol Soft. Akankah ia mampu merancang, menggambar, dan menciptakan semua gadis cantik yang selama ini ia impikan?! Sebuah kisah tentang seorang gadis dan kecintaannya yang luar biasa terhadap gadis-gadis cantik—\"Nah, mari kita mulai!\"",
+      "genres": [
+        "Comedy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "227-nanabun-no-nijyuuni",
+      "title": "22/7 (nanabun no nijyuuni)",
+      "title_jp": "22/7 （ナナブンノニジュウニ）",
+      "poster": "https://otakudesu.blog/wp-content/uploads/2020/03/227-Sub-Indo.jpg",
+      "synopsis": "Suatu hari, Miu Takigawa tiba-tiba menerima surat yang memberitahukan bahwa ia telah terpilih sebagai anggota untuk sebuah proyek yang benar-benar baru. Dengan perasaan setengah tidak percaya, ia pun mendatangi lokasi yang tertera dalam surat tersebut. Di sana, ia mendapati tujuh gadis lain yang dipanggil dengan cara yang sama. Mereka semua terpana saat melihat sebuah fasilitas raksasa yang sangat dirahasiakan. Dalam kebingungan, mereka pun mendengar pernyataan berikut: \"Kalian akan debut di bawah naungan label rekaman besar sebagai sebuah grup idola.\" Sebuah jenis idola baru, yang belum pernah ada sebelumnya, akan segera lahir di sini…",
+      "genres": [
+        "Drama",
+        "Music"
       ]
     }
   ]
