@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T12:55:45.054Z",
+  "updated_at": "2026-10-15T18:22:25.438Z",
   "total_anime": 3,
   "total_episodes": 20,
   "total_servers": 35,
   "episodes": {
-    "#compass2.0-animation-project": [
+    "compass20-animation-project": [
       {
         "ep": 1,
         "title": "episode 1",
@@ -144,7 +144,7 @@
         ]
       }
     ],
-    "#zombie-sagashitemasu": [
+    "zombie-sagashitemasu": [
       {
         "ep": 1,
         "title": "episode 1",
