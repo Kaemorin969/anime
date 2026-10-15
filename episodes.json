@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updated_at": "2026-10-08T19:05:27.715Z",
+  "updated_at": "2026-10-15T05:46:17.371Z",
   "total_anime": 1,
-  "total_episodes": 2,
-  "total_servers": 3,
+  "total_episodes": 12,
+  "total_servers": 13,
   "episodes": {
     "#compass2.0-animation-project": [
       {
@@ -30,6 +30,116 @@
             "name": "Blogspot",
             "quality": "HD",
             "url": "https://www.blogger.com/video.g?token=AD6v5dy1VUe7m0iB7Ju-M_XhDSHV51CnqJupVL656XU6x9ZOsMcelVjeESvD-uuvunLIfWqzBsPTxVnUc9KGjdYZHgqhpKZXh74oRYP_6TkrgZD-QEy208MLM-0TRXuEdLgJiUlcMiw1"
+          }
+        ]
+      },
+      {
+        "ep": 3,
+        "title": "episode 3",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "360",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dyL0XBKwfpynw4yFqjoCl-aqkoQ9tz9cOnF2DLR6wInABc1OJJmPGBFw2H3wI5eT2XStF-oVDXqmwhA9pVUDS_zrKRMt2pS3loOgCFKOOoL0-pZ3EOtuJFmb3yXFEVjqQUrkSo"
+          }
+        ]
+      },
+      {
+        "ep": 4,
+        "title": "episode 4",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "360",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzTw3Ssu-b9GnGi2ZY8EbxQ7sS7LQoNFoyyDNz7ICiOIw9-BYg3o-MkVJEBiOURti9q-ubzVxsNsKo-SWAqKo0pUQEeua2z7ldncmanfvnRveyYqQddra5uSyYoDHQv28fqjn4"
+          }
+        ]
+      },
+      {
+        "ep": 5,
+        "title": "episode 5",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "360",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dw35VzNL61tBbP0lbg5ic5M7aV0DRaVDVRJck4jSXUm6X8DlwESmmd4dL9h8VSBAwcv73DGWsaDnAr7pg19KTR9UJpqjU8sZn87wAHhO3I6gy8I1gur_selaQZRmtbuGazCNs0"
+          }
+        ]
+      },
+      {
+        "ep": 6,
+        "title": "episode 6",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "360",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzjzXmvvzFCwjAAElnMK6E1sMkP9ZIetCxGf4C8MUkVkKphWYywfoBWMjSArOZ7icwok-06CaOnQdLAtAF3dz0YU2yR2s6JaHAU6J7cPFLv0apiYubpN2w3KT8Jw1TWxgPIEUA"
+          }
+        ]
+      },
+      {
+        "ep": 7,
+        "title": "episode 7",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "360",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dx3RwlxKp1DWgn8TnCZkYu2dLcpkVMNdeupVIVgIZhO9a8XQg8ng_xnSwcB8O4lonQwyKFqeNYhum0XZjXe9cUXtzwyQlvNdw3FMySmXTAAQa95dVR2Z5wuk0vcw0gckPyYXgI"
+          }
+        ]
+      },
+      {
+        "ep": 8,
+        "title": "episode 8",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "360",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwammoMMtWux9R2RSbFVF8no2Y78gOOZVw2jZuOskwaSFzZVLilzYcTVsepOVHbIuI8cXkgK3C_BEvsW380gX5WsOvEaRsBHnzeuAp3kTX49f0WkJx8zEVg7uDjQV7lYXVu5FBd"
+          }
+        ]
+      },
+      {
+        "ep": 9,
+        "title": "episode 9",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "360",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dxxAEFMnuQE60jML2mOvvqGhneaM1NXMz5PaYsYNncAheKI3A7fdb6zKjZYaDWcsSkwNkr193xUyiQ2tjf4W25I4Q9Hrl4zBPi8W1wfTU3kPfgUUhxTVDG5Y3Iha9KgWFbZSCo5"
+          }
+        ]
+      },
+      {
+        "ep": 10,
+        "title": "episode 10",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "360",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzcND2cwLISmAJC-nrKWLVnKYWhjstz61JNoiNq1MMCRMvhylCFi9Kzo4MlA9_-rBzHV8LClFBnyrl00fNMLhF-vkVJ8fSLBaEHQ7BT08njW9yBnX9jS18ZLLJSCA8o764AZ2M"
+          }
+        ]
+      },
+      {
+        "ep": 11,
+        "title": "episode 11",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "360",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dxb7zfpmBKgDzfbhRMdBdRfCxGVWJP0NiiLEedGgadRqTVAjaeroABtl49RHCyl00cTPL2vluzn0M-33iYy9NDFxH4ZpXAi9KfVwYWfBW-CWc5vVY5UaVQFZQzt5TzZ7IgCjmvh"
+          }
+        ]
+      },
+      {
+        "ep": 12,
+        "title": "episode 12",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "360",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzp_NJLPjknWH6t_jxh4c_pnF_NHnczrkf6QEK05pr0-AJXvIZkqXjLC41n8sCwRyJ4nUIHF-rRz_-WDiowdrGfM2lJINMt8CiX-cFthmd3MNmKBenl9nUX1VtSzyp-JJ0XhOo"
           }
         ]
       }
