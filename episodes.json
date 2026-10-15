@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T05:46:17.371Z",
-  "total_anime": 1,
-  "total_episodes": 12,
-  "total_servers": 13,
+  "updated_at": "2026-10-15T12:55:45.054Z",
+  "total_anime": 3,
+  "total_episodes": 20,
+  "total_servers": 35,
   "episodes": {
     "#compass2.0-animation-project": [
       {
@@ -140,6 +140,168 @@
             "name": "Blogspot",
             "quality": "360",
             "url": "https://www.blogger.com/video.g?token=AD6v5dzp_NJLPjknWH6t_jxh4c_pnF_NHnczrkf6QEK05pr0-AJXvIZkqXjLC41n8sCwRyJ4nUIHF-rRz_-WDiowdrGfM2lJINMt8CiX-cFthmd3MNmKBenl9nUX1VtSzyp-JJ0XhOo"
+          }
+        ]
+      }
+    ],
+    "#zombie-sagashitemasu": [
+      {
+        "ep": 1,
+        "title": "episode 1",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "480",
+            "url": "https://mega.nz/embed/bnIHTIKa#qGj8HEGn5kR0rDYjOl3_GpvaS504gaBgqAms0MuKv14"
+          },
+          {
+            "name": "Mega",
+            "quality": "720",
+            "url": "https://mega.nz/embed/TvAgwAoZ#6j8nDqYZnn5H5g68lpv0nCjEEGhZ1LTUPEjffnVfES8"
+          }
+        ]
+      },
+      {
+        "ep": 2,
+        "title": "episode 2",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "480",
+            "url": "https://mega.nz/embed/kExzhSaI#CUUgG5GT8MIBMusD-hcVb3ZjyICWIhPxWNIQE33HllQ"
+          },
+          {
+            "name": "Mega",
+            "quality": "720",
+            "url": "https://mega.nz/embed/gNY2DLYY#cqWPCblJZE0TwBS1KbJO5GNwrPrIaEzblsoy4a5r7y8"
+          }
+        ]
+      }
+    ],
+    "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season": [
+      {
+        "ep": 1,
+        "title": "episode 1",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "480",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dxu7flYxZUKEj9kqhVsxKikWFOuW6fcNSGsO38-KkcdkRZzGGx1P3byltDawsemxXL0lWze7SsxoyagOOkbJ56lzhxb04yt90oa_SbKpsZkdJ9CkfVU43KN3O-tO-6u4XvlQe0"
+          },
+          {
+            "name": "Mega",
+            "quality": "720",
+            "url": "https://mega.nz/embed/yNJGgDiZ#61NLQhmjQLd5IxCGWmIsqjdSbc3k6a6O0a-EdWsBov8"
+          },
+          {
+            "name": "Mega",
+            "quality": "1080",
+            "url": "https://mega.nz/embed/TZIzxAab#7L2Dn6HwjsIZi1MxI5dTQoveFnQ5jToE902rpUTwn2U"
+          }
+        ]
+      },
+      {
+        "ep": 2,
+        "title": "episode 2",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "480",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dz4vDFkXFYwhSTxLdUIIhAOys7WfATAABlMNypklKTFxoZdXDMf8vJf399Qj-dFp--3a_6RH9lg5K0DwX1eASkXKD4ohLwDW8a8Q-7BH9Vo4Y5IOu4JDiCQ8MPOWTO15qhtLvA"
+          },
+          {
+            "name": "Mega",
+            "quality": "720",
+            "url": "https://mega.nz/embed/PBB2HLID#S8VOuwNzPIxXieQGM7OwVDyo-fHyWZP91VYo3eztUD0"
+          },
+          {
+            "name": "Mega",
+            "quality": "1080",
+            "url": "https://mega.nz/embed/eQohwQyJ#PSNxCIVM2adT8E8Im5wK5KZLbIbc-tloR8X5r-04QtA"
+          }
+        ]
+      },
+      {
+        "ep": 3,
+        "title": "episode 3",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "480",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dw6Ayr2z4ofn-eJeT2VA7uYBr1UDNhgER2LaPh_v85wIk1pjsaOeEU8NmWtwt7Vx012oW8tSjWphmUmqTpg40AH7oFVgrCyhzUiO9I8spJOt8krxmUAoYDLV26GukPb5bqHaYI"
+          },
+          {
+            "name": "Mega",
+            "quality": "720",
+            "url": "https://mega.nz/embed/gOgCXThY#5sFsJ-AcEm145JueQxz94W5ieqqfqwPkXpUiqeMDHAQ"
+          },
+          {
+            "name": "Mega",
+            "quality": "1080",
+            "url": "https://mega.nz/embed/FGgU1JbC#4_RwAqjXVvkVsx2LEyIUGWBJOLOg-jeATDgrtGxHtJI"
+          }
+        ]
+      },
+      {
+        "ep": 4,
+        "title": "episode 4",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "480",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dyeqkjRM6x5TzQlB8nsJsnMxpRkB2vfd2AvpbsiIE6-kos6huaqWFunTpuqtvqpWW9Je5BfZdz-Nvpwk7xkuWVGKT1ZUmfb58UP3Cq2u-IIpPrBN7Hq0p4KSvb_8LB9XV3f2aM"
+          },
+          {
+            "name": "Mega",
+            "quality": "720",
+            "url": "https://mega.nz/embed/5a4mHCoa#LEkPLClWGmvCYkbxa9eqf3Dwe-XmB15Cm1BkaSi2TkE"
+          },
+          {
+            "name": "Mega",
+            "quality": "1080",
+            "url": "https://mega.nz/embed/QaRVlSYR#9U14g4e-Ubd3CZkVU6Avzg7SR7vfCi_BH17tdBIPgG8"
+          }
+        ]
+      },
+      {
+        "ep": 5,
+        "title": "episode 5",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "480",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwWzY31DAfExgDHay5i8eHnQFy4v_cioo_ou2LfDDQ2eCEDAktKaH-P5Miwg9Q4dvkiPi2KQeF7eTFEv2WfDb-OOJbqlRXbd8-P_z2_nAHHl39XX95gjAQSTEUHdTCoqZpmOzOI"
+          },
+          {
+            "name": "Mega",
+            "quality": "720",
+            "url": "https://mega.nz/embed/oRZVUSzY#cgjjUdhS4-k69rhUizr50_5PaHkrRNt7hC8TU492qBc"
+          },
+          {
+            "name": "Mega",
+            "quality": "1080",
+            "url": "https://mega.nz/embed/wNJVDYwI#S_yZxq72-J-PxuO98r2XRfbwslW5ERZaWz7I2SCAJJw"
+          }
+        ]
+      },
+      {
+        "ep": 6,
+        "title": "episode 6",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "480",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwdJ1xKHvjyfr5OJQMucHRoZIaSYtVFVto-bq-f_iCq6H321ZYpzl12l0e49R7_aJpiankde-lhKVeSoC1tx4SI-LSGVNF7GHPIgJ6NJGntHhR9yrrI-IBOVh81iZQEOOgBlg"
+          },
+          {
+            "name": "Mega",
+            "quality": "720",
+            "url": "https://mega.nz/embed/BUoQnDgJ#TWiUy44Ht9J9YFG7KNKCFCeaCkBnSB3r7eFanZHU2Yc"
+          },
+          {
+            "name": "Mega",
+            "quality": "1080",
+            "url": "https://mega.nz/embed/4ApmhQTZ#5ipyV9NtRdyPRxO0TjfqBeqZYh2ecUlvKIgVvyqZ6kU"
           }
         ]
       }
