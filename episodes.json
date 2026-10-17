@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T18:22:25.438Z",
-  "total_anime": 3,
-  "total_episodes": 20,
-  "total_servers": 35,
+  "updated_at": "2026-10-17T02:01:40.353Z",
+  "total_anime": 5,
+  "total_episodes": 35,
+  "total_servers": 52,
   "episodes": {
     "compass20-animation-project": [
       {
@@ -302,6 +302,185 @@
             "name": "Mega",
             "quality": "1080",
             "url": "https://mega.nz/embed/4ApmhQTZ#5ipyV9NtRdyPRxO0TjfqBeqZYh2ecUlvKIgVvyqZ6kU"
+          }
+        ]
+      },
+      {
+        "ep": 7,
+        "title": "episode 7",
+        "servers": [
+          {
+            "name": "Blogspot",
+            "quality": "HD",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dyW-SEx_HX7rrz_eLDHITkRrTbbALpWRksFkP8hUyMsMWwLHTatftxRdBbb0jG_SWzL9tkrATC62G-ztek7Q-gkGOKIZ5pJO5fjzLgewsny6VhOa0xkzymwFf0D1Hzx2FVK-RI"
+          },
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/wRZFzSoa#FktKsaluNyYtqzJOKXHFbzufHFZpidajuHpwk2VwwYg"
+          },
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/FNh2BYpL#J6vGdluuKs0eplTmy8A6IWlv9A7bQw1GBDOhaouSZkM"
+          }
+        ]
+      }
+    ],
+    "243-seiin-koukou-danshi-volley-bu": [
+      {
+        "ep": 1,
+        "title": "episode 1",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "720",
+            "url": "https://mega.nz/embed/9kITiQ5A#1O0dlXSl0L7OoM9jBhlqtsGptrAMIAx-bdzbHC_CQ74"
+          }
+        ]
+      },
+      {
+        "ep": 2,
+        "title": "episode 2",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/5kZFXKKR#NlauKoud5-kjbap0IsGvGR42saowRedu2w2_SeoAGyU"
+          }
+        ]
+      },
+      {
+        "ep": 3,
+        "title": "episode 3",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/khQR1YCR#v_DVXex4G42wqYZjAy_qwNH-NQhSVOomNsB6vsMMFqs"
+          }
+        ]
+      },
+      {
+        "ep": 4,
+        "title": "episode 4",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/glQFSCCa#RmQLVMiTfAa0D2Tost0IXrwUGE-fm7lvFGCJ_R1OLeQ"
+          }
+        ]
+      },
+      {
+        "ep": 5,
+        "title": "episode 5",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/FtZBDIAR#y1Mh3YBMxIbG7J6-WdkPDbNBUAgAmhvMFrVlh_HB4sQ"
+          }
+        ]
+      },
+      {
+        "ep": 6,
+        "title": "episode 6",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/QoQVRI7S#DLlflAjhmfNDUrDuEqFocPAFZYl1jBbKWeBBzciubtw"
+          }
+        ]
+      },
+      {
+        "ep": 7,
+        "title": "episode 7",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/ohQlFIIS#BGvN5zD52oAULJOagOCVM7w3FLIR6XCD5lh_tCQH0gQ"
+          }
+        ]
+      },
+      {
+        "ep": 8,
+        "title": "episode 8",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/kgAzlCpR#ImQfTDxHV68UrHqiNB0EBUZGxx3j8obruw14ay7xIc8"
+          }
+        ]
+      },
+      {
+        "ep": 9,
+        "title": "episode 9",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/09BHgCpC#dbs4orR5bfUgTuLgg14JDZ4BPmSZ-jgQWDdSnU80fks"
+          }
+        ]
+      },
+      {
+        "ep": 10,
+        "title": "episode 10",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/khR3VCZb#kAPCe5eFlGB9baS3pFzNkHsc9Hn1h1PkbNRpnZ3mss8"
+          }
+        ]
+      },
+      {
+        "ep": 11,
+        "title": "episode 11",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/9sRThQ4Y#CsZ_5LDhc-yoeGxM6YFy8E7nJ1g76VCGs8TN50kpokQ"
+          }
+        ]
+      },
+      {
+        "ep": 12,
+        "title": "episode 12",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/9tZRwIhA#Jc98HrKZ3sgxROOyFNVp9d9Q9l9hEHlwYsWfS9c81yo"
+          }
+        ]
+      }
+    ],
+    "hotaru-no-yomeiri": [
+      {
+        "ep": 1,
+        "title": "episode 1",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "720",
+            "url": "https://mega.nz/embed/z3ZE0LTL#38PjVWUOxVVDNCxdw7B5HdA0fggspBfWAeM2YrXtAaw"
+          }
+        ]
+      },
+      {
+        "ep": 2,
+        "title": "episode 2",
+        "servers": [
+          {
+            "name": "Mega",
+            "quality": "HD",
+            "url": "https://mega.nz/embed/niB2QDbY#SzIJEabWtb1ePfqbJVXuEeztySCsneUB1mU6jmaTTA0"
           }
         ]
       }
